@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dusha\\Desktop\\CampusEats.Api\\CampusEats.Api.csproj": {}
+    "C:\\Users\\dusha\\Desktop\\campuseats-labs\\lab02-react-frontend\\campuseats-dashboard\\backend\\CampusEats.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dusha\\Desktop\\CampusEats.Api\\CampusEats.Api.csproj": {
+    "C:\\Users\\dusha\\Desktop\\campuseats-labs\\lab02-react-frontend\\campuseats-dashboard\\backend\\CampusEats.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dusha\\Desktop\\CampusEats.Api\\CampusEats.Api.csproj",
+        "projectUniqueName": "C:\\Users\\dusha\\Desktop\\campuseats-labs\\lab02-react-frontend\\campuseats-dashboard\\backend\\CampusEats.Api.csproj",
         "projectName": "CampusEats.Api",
-        "projectPath": "C:\\Users\\dusha\\Desktop\\CampusEats.Api\\CampusEats.Api.csproj",
+        "projectPath": "C:\\Users\\dusha\\Desktop\\campuseats-labs\\lab02-react-frontend\\campuseats-dashboard\\backend\\CampusEats.Api.csproj",
         "packagesPath": "C:\\Users\\dusha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dusha\\Desktop\\CampusEats.Api\\obj\\",
+        "outputPath": "C:\\Users\\dusha\\Desktop\\campuseats-labs\\lab02-react-frontend\\campuseats-dashboard\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dusha\\AppData\\Roaming\\NuGet\\NuGet.Config"
